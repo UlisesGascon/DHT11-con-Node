@@ -1,0 +1,14 @@
+{
+  "name": "dht11-con-nodejs",
+  "version": "1.0.0",
+  "description": "Trabajar con el sensor DHT11 desde Node.js usando serialport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Gascón",
+  "license": "Apache",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
