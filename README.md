@@ -1,3 +1,5 @@
+![dependencies](https://david-dm.org/UlisesGascon/DHT11-con-Node.svg)
+
 # DHT11 con Node
 
 **DHT11** es un sensor que mide la humedad y la temperatura del ambiente.
