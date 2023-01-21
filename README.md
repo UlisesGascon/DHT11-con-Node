@@ -1,4 +1,4 @@
-![dependencies](https://david-dm.org/UlisesGascon/DHT11-con-Node.svg)
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
 
 # DHT11 con Node
 
